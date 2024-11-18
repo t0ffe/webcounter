@@ -1,0 +1,9 @@
+src/__pycache__/*
+.venv 
+.env
+__pycache__
+*.log
+log.html
+output.xml
+report.html
+*.png
